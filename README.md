@@ -19,4 +19,4 @@ I used Breast Ultrasound Images Dataset(BUSI). The data collected at baseline in
 The feature extraction stage was performed by CNN and LSTM algorithms
 
 # Recognition Phase:
-This phase focuses on recognizing breast cancer. The recognition phase makes use of SVM, decision tree, and KNN algorithm classifires.
+This phase focuses on recognizing breast cancer. The recognition phase makes use of SVM, decision tree, and KNN classifires algorithms.
